@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { getCountries, getCountryCallingCode } from "react-phone-number-input";
 import countryFlagEmoji from "country-flag-emoji";
-import arrowDown from "../../../assets/arrow-down.png";
+import arrowDown from "../../assets/arrow-down.png";
 
 export const CountrySelect = ({ value, onChange, labels, ...rest }) => {
   return (

@@ -1,7 +1,9 @@
+import { PhoneInputField } from "./PhoneFieldInput/PhoneInputField";
+
 function App() {
   return (
     <div className="App">
-      <h1>i am home</h1>
+      <PhoneInputField />
     </div>
   );
 }
