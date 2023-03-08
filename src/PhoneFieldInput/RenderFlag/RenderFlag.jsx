@@ -7,8 +7,6 @@ export const RenderFlag = ({ country, width, height }) => {
       countryCode={flag}
       svg
       style={{
-        // width: `clamp(${width}px)`,
-
         width: " clamp(1.875rem, 0.9144rem + 1.9212vw, 3.125rem)",
         height: `clamp(${height})`,
         paddingRight: "clamp(0.3125rem, -0.0237rem + 0.6724vw, 0.75rem)",
