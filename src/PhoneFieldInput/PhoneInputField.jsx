@@ -10,7 +10,6 @@ import {
   InputWrapper,
   Label,
   SelectWrapper,
-  ValidationMessage,
 } from "./PhoneInputField.styles";
 
 export const PhoneInputField = () => {
