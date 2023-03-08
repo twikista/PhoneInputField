@@ -2,6 +2,10 @@
 
 A reusable custom react phone input component that renders the country flag, dial code and validates the number entered in the input field based on the country selected.
 
+## Demo
+
+[PhoneInputField](https://PhoneInputField.twikista.repl.co)
+
 ## Table of contents
 
 - [Features](#implemented-features)
